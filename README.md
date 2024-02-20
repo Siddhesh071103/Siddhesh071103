@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML & Django**
 
-- 👨‍💻 All of my projects are available at [https://siddev-portfolio.netlify.app/](https://siddev-portfolio.netlify.app/)
+- 👨‍💻 Check my portfolio here [https://siddev-portfolio.netlify.app/](https://siddev-portfolio.netlify.app/)
 
 - 💬 Ask me about **Frontend Development & MERN Stack**
 
